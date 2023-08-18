@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - GameManager
+  - Checkpoint
+  - Checkpoints
+  - MapOff
+  - FinishMap
+  - Trap
+  - AdsSystem
+  - Coin
+  - EnemyKill
+  - Ground
+  - Diamond
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Background
+  - Enemy
+  - Player
+  - Coin
+  - Finish
+  - EnemyTrigger
+  - PlayerFoot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Platform
+    uniqueID: 842197963
+    locked: 0
+  - name: Background
+    uniqueID: 3440280831
+    locked: 0
